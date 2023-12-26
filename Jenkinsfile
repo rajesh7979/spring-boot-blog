@@ -1,3 +1,2 @@
 @Library('shared-library-jenkins') _
-
-blogAppJava()
+blogAppJava('App1', '1.0', 'dev')
